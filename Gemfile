@@ -86,3 +86,6 @@ gem 'fog-aws'
 
 # adds file uploading
 gem 'carrierwave', '~> 1.0'
+
+# adds image manipulation
+gem 'mini_magick'

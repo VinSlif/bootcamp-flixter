@@ -77,3 +77,12 @@ gem 'simple_form'
 
 # adds authentication
 gem 'devise'
+
+# adds secure keys
+gem 'figaro'
+
+# adds AWS integration
+gem 'fog-aws'
+
+# adds file uploading
+gem 'carrierwave', '~> 1.0'

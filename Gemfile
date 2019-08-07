@@ -89,3 +89,6 @@ gem 'carrierwave', '~> 1.0'
 
 # adds image manipulation
 gem 'mini_magick'
+
+# updates aws upload method
+gem 'carrierwave-aws'

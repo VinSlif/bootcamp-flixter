@@ -5,4 +5,7 @@ class Lesson < ApplicationRecord
 	validates :title, presence: true
 	validates :subtitle, presence: true
 	validates :video, presence: true
+
+	include RankedModel
+	ranks :row_order, with_same: :section_id
 end

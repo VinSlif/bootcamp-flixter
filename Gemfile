@@ -95,3 +95,6 @@ gem 'carrierwave-aws'
 
 # add stripe integration
 gem 'stripe'
+
+# adds database reording
+gem 'ranked-model'

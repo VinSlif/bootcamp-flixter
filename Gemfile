@@ -92,3 +92,6 @@ gem 'mini_magick'
 
 # updates aws upload method
 gem 'carrierwave-aws'
+
+# add stripe integration
+gem 'stripe'

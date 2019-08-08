@@ -82,7 +82,7 @@ gem 'devise'
 gem 'figaro'
 
 # adds AWS integration
-gem 'fog-aws'
+gem 'fog-aws', require: 'fog/aws'
 
 # adds file uploading
 gem 'carrierwave', '~> 1.0'

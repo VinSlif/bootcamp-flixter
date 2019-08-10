@@ -98,3 +98,6 @@ gem 'stripe'
 
 # adds database reording
 gem 'ranked-model'
+
+# adds jquery ui for rails
+gem 'jquery-ui-rails'

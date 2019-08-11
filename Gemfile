@@ -101,3 +101,6 @@ gem 'ranked-model'
 
 # adds jquery ui for rails
 gem 'jquery-ui-rails'
+
+# adds font awesome web fonts
+gem 'font-awesome-rails'

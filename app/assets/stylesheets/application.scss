@@ -111,6 +111,7 @@ h1, h2, h3, h4, h5, h6, .navbar {
 	font-family: "Helvetica Neue", Helvetica;
 	padding: 10px 0px;
 	margin-top: 30px;
+	font-weight: 100;
 }
 
 #footer a {
@@ -190,4 +191,12 @@ ul .header {
 
 ul .header .fa {
 	font-size: 20px;
+}
+
+.social a:hover {
+	text-decoration: none;
+}
+
+.social-button {
+	margin: 4px;
 }
